@@ -1,5 +1,11 @@
 # planigale-lab
 
+## Solved on 2023-04-01T08:35+00:00
+
+Archiving to prevent further edits to this repository.
+
+## Introduction
+
 Hi! In this repo is a slightly insecure IIS web.config file, and an automated CICD Workflow configured to:
 * Check for insecure options
 * Validate them against the SafeStack platform
